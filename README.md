@@ -1,6 +1,5 @@
 # 📱 Google Play Store Apps Analysis
 
-[![CI/CD Pipeline](https://github.com/kaeldrin-gh/play-store-analysis/actions/workflows/ci.yml/badge.svg)](https://github.com/kaeldrin-gh/play-store-analysis/actions/workflows/ci.yml)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
@@ -90,7 +89,7 @@ This project provides a complete end-to-end analysis of Google Play Store applic
 
 ```bash
 # Clone the repository
-git clone https://github.com/kaeldrin-gh/play-store-analysis.git
+git clone https://github.com/your-username/play-store-analysis.git
 cd play-store-analysis
 
 # Set up the environment (choose one method)
@@ -177,7 +176,7 @@ jupyter lab
 # Navigate to: notebooks/playstore_end_to_end.ipynb
 ```
 
-**🔗 [Run on Google Colab](https://colab.research.google.com/github/kaeldrin-gh/play-store-analysis/blob/main/notebooks/playstore_end_to_end.ipynb)**
+**🔗 [Run on Google Colab](https://colab.research.google.com/github/your-username/play-store-analysis/blob/main/notebooks/playstore_end_to_end.ipynb)**
 
 ## 📁 Project Structure
 
